@@ -5,14 +5,30 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".MainActivity">
+    tools:context="com.example.hw7_jv2.MainActivity">
+
+    <Button
+        android:id="@+id/btn_new_activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:text="NEXT"
+
+        android:textAllCaps="false"
+        android:visibility="invisible"
+        android:textColor="@color/orange"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:paddingHorizontal="32dp"
         app:layout_constraintBottom_toTopOf="@id/container"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="0dp">
 
         <TextView
             android:id="@+id/tv_result"

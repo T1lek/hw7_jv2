@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/btn_bg.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/btn_bg_crash.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/ic_baseline_arrow_right_24.xml" value="0.12129629629629629" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/ic_education_calculator_maths_math_icon_149699.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/launch_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/drawable/screen_launch.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/layout/activity_results2.xml" value="0.22" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2153846153846154" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/Hw7_jv2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/hw7_jv2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.33796296296296297" />
+        <entry key="..\:/Users/Tilek/AndroidStudioProjects/hw7_jv2/app/src/main/res/drawable/launch.xml" value="0.21875" />
         <entry key="..\:/Users/Tilek/AndroidStudioProjects/hw7_jv2/app/src/main/res/layout/activity_main.xml" value="0.3625" />
       </map>
     </option>
